@@ -1,8 +1,8 @@
 # datafun-07-ml
 # Project 7
 ## Purpose: This project will showcase skills of machine learning in data analytics.
-Author: Lindsay Foster
-Date: February 2025
+- Author: Lindsay Foster
+- Date: February 2025
 
 ## Install and Run
 - Create a GitHub project repository with a default README.md. 
