@@ -16,3 +16,9 @@
 `git add .
 git commit -m "message"
 git push`
+
+## Start a New Jupyter Notebook
+- Create a new notebook in your repository.
+- In a Markdown cell at the top of the notebook, add: title, author, date and a clickable link to the GitHub project repository.
+- In a Python cell just after, add all import statements, organized following standard conventions. 
+- Run the notebook and Git add / commit / push changes to GitHub. 
