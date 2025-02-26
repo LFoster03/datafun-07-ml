@@ -22,3 +22,8 @@ git push`
 - In a Markdown cell at the top of the notebook, add: title, author, date and a clickable link to the GitHub project repository.
 - In a Python cell just after, add all import statements, organized following standard conventions. 
 - Run the notebook and Git add / commit / push changes to GitHub. 
+
+## Chart a Straight Line
+- Create a lambda for the preceding formula and use it to calculate the Celsius equivalents of the Fahrenheit temperatures 0–100 in 10-degree increments. 
+- Then place the data in a DataFrame, then use its plot method to display the linear relationship between the Fahrenheit and Celsius temperatures.
+
